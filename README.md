@@ -2,8 +2,7 @@
 #### Front-End Developer
 ![Front-End Developer](https://media.licdn.com/dms/image/D4D16AQE7oRi8K0AQBQ/profile-displaybackgroundimage-shrink_350_1400/0/1707167146187?e=1714003200&v=beta&t=FWN0_GNffkQ44j-1x25sY6fiR1UOySPfblsxSMbrINU)
 
-I'm Enis, a 31-year-old front-end developer based in the vibrant city of Istanbul. With a passion for crafting modern and user-friendly web applications, I specialize in technologies like Next.js, React, JavaScript, HTML, CSS, SASS and Bootstrap.
-
+1 + years experience in front-end development, I bring expertise in tools like React, Next.js, Javascript, CSS Bootstrap, and Sass. I've successfully contributed to real estate and school management projects, crafting user-friendly web applications. My creative thinking, problem-solving skills, and strong communication abilities ensure the delivery of unique solutions tailored to client needs. I stand out with active participation in team collaborations and a fervent passion for technology Embracing innovation, I am open-minded and collaborative in fostering a dynamic team environment.
 Skills: NEXT.JS / REACT / JS / HTML / CSS /  SASS  /BOOTSTRAP / GIT 
 
 

@@ -1,8 +1,9 @@
 ### Hi there 👋, Enis Kerti
-#### Front-End Developer
-![Front-End Developer](https://media.licdn.com/dms/image/D4D16AQE7oRi8K0AQBQ/profile-displaybackgroundimage-shrink_350_1400/0/1707167146187?e=1714003200&v=beta&t=FWN0_GNffkQ44j-1x25sY6fiR1UOySPfblsxSMbrINU)
+#### Front-End Developer & QA Assurance Test Engineer
+![Front-End Developer]([https://media.licdn.com/dms/image/D4D16AQE7oRi8K0AQBQ/profile-d![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/8fbe66da-cc51-439f-b61b-a6b035859d47))
+isplaybackgroundimage-shrink_350_1400/0/1707167146187?e=1714003200&v=beta&t=FWN0_GNffkQ44j-1x25sY6fiR1UOySPfblsxSMbrINU)
 
-1 + years experience in front-end development, I bring expertise in tools like React, Next.js, Javascript, CSS Bootstrap, and Sass. I've successfully contributed to real estate and school management projects, crafting user-friendly web applications. My creative thinking, problem-solving skills, and strong communication abilities ensure the delivery of unique solutions tailored to client needs. I stand out with active participation in team collaborations and a fervent passion for technology Embracing innovation, I am open-minded and collaborative in fostering a dynamic team environment.
+2 + years experience in front-end development, I bring expertise in tools like React, Next.js, Javascript, CSS Bootstrap, and Sass. I've successfully contributed to real estate and school management projects, crafting user-friendly web applications. My creative thinking, problem-solving skills, and strong communication abilities ensure the delivery of unique solutions tailored to client needs. I stand out with active participation in team collaborations and a fervent passion for technology Embracing innovation, I am open-minded and collaborative in fostering a dynamic team environment.
 Skills: NEXT.JS / REACT / JS / HTML / CSS /  SASS  /BOOTSTRAP / GIT 
 
 
